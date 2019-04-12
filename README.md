@@ -1,20 +1,13 @@
 # slml2018
-The repository includes codes and part of results for slml final project, 'One Shot Learning', 2018-19, Fudan University.
+This repository includes codes for my course Statistical Learning and Machine Learning in Fudan University.These codes are used for my final project, which is about one shot learning.
 
 
 ## 'models'
-In directory 'models', there are codes for models used in my paper, including:
+In the directory 'models', there are codes for several models used in my paper, including:
+
 Image features extractors: ResNet50, DenseNet121, AlexNet and VGG16;
-One-shot learning models: ESOSL, SiameseNN, MatchingNetwork and Cosine-basedNN;
-Linear classification models: SVR, KNN and Logistic Regression.
-
-
-## 'mini_imagenet'
-This is the data set 'mini-imagenet' offered by Prof. Fu.
-
-
-## 'results'
-These are part of trained models.
+One-shot learning models: ESOSL, SiameseNN;
+Linear classification models: SVR, kNN and Logistic Regression.
 
 
 ## 'utils'
