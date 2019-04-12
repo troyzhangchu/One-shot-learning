@@ -1,8 +1,8 @@
-# slml2018
+# SLML 2018
 This repository includes codes for my course Statistical Learning and Machine Learning in Fudan University.These codes are used for my final project, which is about one shot learning.
 
 
-# About My Paper
+## About My Paper
 My paper of the course is called 'Embarrassingly Simple One Shot Learning and Siamese Neural Networks Based on Deep Features', which contains some of my trails on deep features extractors and one shot learning tasks. The methods used in my paper including ESOSL, which is a lazy learning way developed from embarrassingly simple zero shot learning (ESZSL) raised by Bernardino Romera-Paredes and Philip H S Torr in 2015, and Siamese NN, which is a very popular neural network used in transfer learning.
 
 
