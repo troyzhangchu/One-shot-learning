@@ -5,8 +5,8 @@ This repository includes codes for my course Statistical Learning and Machine Le
 ## 'models'
 In the directory 'models', there are codes for several models used in my paper, including:
 
-Image features extractors: ResNet50, DenseNet121, AlexNet and VGG16;\\
-One-shot learning models: ESOSL, SiameseNN;\\
+Image features extractors: ResNet50, DenseNet121, AlexNet and VGG16;\newline
+One-shot learning models: ESOSL, SiameseNN;\newline
 Linear classification models: SVR, kNN and Logistic Regression.
 
 
